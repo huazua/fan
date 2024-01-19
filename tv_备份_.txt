@@ -1,8 +1,8 @@
 {//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
-//公众号：『乐享汇fans』『乐享生活fans』
-//QQ频道：『乐享汇fans』     QQ群：621886232     630383903
-  "spider":"./lxhfans.jar",
-  "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+//公众号：『fans』『fans』
+//QQ频道：『fans』     QQ群：621886232     630383903
+  "spider":"./huazua.jar",
+  "warningText":"",
   "lives": [
     {
       "name": "直播",
@@ -20,7 +20,7 @@
 "sites":[
     {
      "key":"DB",
-     "name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+     "name":"🌎豆瓣|",
      "type":3,
      "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
     },
@@ -127,7 +127,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,     
-     "jar":"./lxhfans1.jar",
+     "jar":"./huazua1.jar",
      "ext":"XRZspkas5l6NsZJWpEURh6BqKRxqCIw3QY+Bj3/9Gbahdt/I/fP2xq6LIBnrWE8xh45v/vHcmXllR1G9Po2b5t7Z8VyUowvfHsXJA/bkW7XAzegsRcxq8ZqYgUtJTGeh4UtuRrbaaKK5cL96vwgHLQ9hOn8jppN5pZgJ3ZsWQuocwI45MZOaQqi7aNyJmi0PxTt07Djk0kqVoxoHrNGjT2BH7H4K65HXLRMWhyrWswhbnSciFfwjen91iAeJaMuwqQEWSRhShJWb6WTtjXghM8JBksS0432c31evYyFEEq5yiCHTpSm35nFsLmwiI2Q0F20FTMvOA8xIKqGyazVjCVUN3gc0LDqnLWBLFdxsJHh6asndaxPCn7UitiRVuW0Ans3FzhINr5QayshrUtqJHan9h7ItRlx8XkvCh83eWkuRoGBiPC4X/mcbrawRwOM04jIRiRhJl9Dit+b5Rw35Ugvd8qzARtaLkecNFS54zX1UfVJecKBrqSyl0dx8pk2EyG1vZZ0NnnZ2JMuBvywc0gxO45mAnyMM46+igcv76u4DkqA0wFVKHtLXu5TNbOZOfLnnMChe0PdbnQva25mMHgtHYHfZbYlldh6fPdMOidoaiyg+Yd/n1xgoo16k9zclT+ioH6OBrsKG2GYlFVFxLI4bwm+v6zk237jlWXg5bj4Q="
     },
     {
@@ -235,7 +235,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "./lxhfans.jar",
+      "jar": "./huazua.jar",
       "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
     {
@@ -247,7 +247,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
-      "jar":"./lxhfans1.jar",
+      "jar":"./huazua1.jar",
       "ext":"cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo="
     },
     {
@@ -303,7 +303,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,    
-     "jar":"./lxhfans1.jar",
+     "jar":"./huazua1.jar",
      "ext":"pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
     },
     {
@@ -575,7 +575,7 @@
       "name":"乐乐┃蓝光",
       "type":3,
       "api":"csp_YQKan",
-      "jar": "./lxhfans.jar",
+      "jar": "./huazua.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":1
@@ -649,7 +649,7 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
     },
-    {"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
+    {"key":"LR","name":"🌎数据来源于互联网|","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
 
 "parses":[
@@ -677,7 +677,7 @@
         {"name":"光速","type":0,"url":"https://www.gszyv.com/m3u8/?url="},
         {"name":"量子","type":0,"url":"https://lziplayer.com/?url="},
         {"name": "公众号", "type": 1, "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url="},    
-        {"name": "乐享汇fans","type": 0,"url": "https://jx.xmflv.com/?url="}, 
+        {"name": "fans","type": 0,"url": "https://jx.xmflv.com/?url="}, 
 {"name": "最优","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 {"name":"优爱腾","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["youku","YouKu","优酷","优酷视频","iqiyi","IQiYi","qiyi","爱奇艺","奇艺","奇艺视频","qq","腾讯","企鹅","腾讯视频","bilibili","哔哩","哔哩哔哩","letv","leshi","LS","乐视视频","pptv","PPTV","sohu","SoHu","搜狐","搜狐视频"]}},
 {"name": "m3u8","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},

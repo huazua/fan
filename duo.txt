@@ -1,12 +1,12 @@
-//公众号『乐享汇fans』
-//公众号『乐享生活fans』
+//公众号『fans』
+//公众号『fans』
 
 //•Q①群号：630383903
 //•Q②群号：621886232
 
-//QQ频道：搜索乐享汇fans即可           
+//QQ频道：搜索fans即可           
 //微信群;加客服赞赏入群           
-//客服微信:lxhfans
+//客服微信:huazua
 //上面链接是针对那些电视端添加仓库失败的个别人员使用
 
 
@@ -14,9 +14,9 @@
 "storeHouse":
 [
 
-{"sourceName":"乐享汇fans✈️主力","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/zx.json"},
-{"sourceName":"乐享汇fans🚀备用","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/zx1.json"},
-{"sourceName":"乐享汇fans🍵绿茶","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/99.json"}
+{"sourceName":"fans✈️主力","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/huazua/fans/master/zx.json"},
+{"sourceName":"fans🚀备用","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/huazua/fans/master/zx1.json"},
+{"sourceName":"fans🍵绿茶","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/huazua/fans/master/99.json"}
 
 ]
 }
